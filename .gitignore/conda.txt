@@ -1,0 +1,3 @@
+conda create -n nengo
+activate nengo
+pip install nengo nengo-gui
